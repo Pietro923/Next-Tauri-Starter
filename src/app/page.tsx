@@ -13,7 +13,7 @@ const App: React.FC = () => {
             Aplicación Next.js en Tauri <br /> <span className="text-muted-foreground">Next.js App in Tauri</span>
           </h1>
           <a
-            href="https://github.com/tu-usuario/tu-repo"
+            href="https://github.com/Pietro923/Next-Tauri-Starter"
             target="_blank"
             rel="noopener noreferrer"
           >
