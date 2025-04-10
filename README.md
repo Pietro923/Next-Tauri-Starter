@@ -3,7 +3,7 @@
 > 🚀 A modern desktop app boilerplate using **Tauri + Next.js 14 + Tailwind CSS + shadcn/ui**  
 > Perfect for building lightweight, secure and fast desktop apps using web technologies.
 
-![GitHub repo stars](https://img.shields.io/github/stars/tu-usuario/next-tauri-starter?style=social)
+![GitHub repo stars](https://img.shields.io/github/stars/Pietro923/next-tauri-starter?style=social)
 ![Tauri](https://img.shields.io/badge/tauri-%23FFC131?logo=tauri&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38BDF8?logo=tailwindcss&logoColor=white)
@@ -26,7 +26,7 @@
 - [Node.js](https://nodejs.org/) (18+)
 - [Rust](https://www.rust-lang.org/tools/install)
 - [Tauri CLI](https://tauri.app/v1/guides/getting-started/prerequisites/)
-- [pnpm](https://pnpm.io/) recomendado, aunque también funciona con npm o yarn
+- [npm](https://www.npmjs.com/) recomendado, aunque también funciona con npm o yarn
 
 ---
 
